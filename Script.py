@@ -15,7 +15,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
    
     SOURCE_TXT = """<b>🪧 ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴩʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/xax_ha_ha_l">Pᴍ Mᴇ 🗣️</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/xax_ha_ha_l">Pᴍ Mᴇ 📩</a>
 ⚙️ Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/xax_ha_ha_l">𝙾𝙶𝙶𝚈 𝚇 𝙹𝙴𝚁𝚁𝚈</a></b>"""
 
